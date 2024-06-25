@@ -1,6 +1,6 @@
 ## Boas Vindas ao meu perfil ##
 
-# Meu nome é *Luiz Felipe Cardozo Silva* #
+ Meu nome é *Luiz Felipe Cardozo Silva* 
 
 • Estou estudando na Alura
 • Estou me desenvolvendo em JavaScript 
